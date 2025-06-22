@@ -71,7 +71,8 @@ Delivers exploratory visualizations for patterns in loan applications, borrower 
 ---
 
 ### 🔹 Dashboard 3: Detailed Insights  
-![image alt]
+![image alt](https://github.com/pratikd2605/Power-BI-Bank-Loan/blob/9951f29153a1a6e2c61fe48eef15b3e89f8572a7/Bank_Details.png)
+
 **Purpose:**  
 Provides granular, record-level data for in-depth exploration and validation.
 
