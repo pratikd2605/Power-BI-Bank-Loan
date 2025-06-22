@@ -51,7 +51,7 @@ Provides an at-a-glance overview of loan operations using critical KPIs and perf
 ---
 
 ### 🔹 Dashboard 2: Trends & Overview  
-
+![image alt]
 **Purpose:**  
 Delivers exploratory visualizations for patterns in loan applications, borrower characteristics, and loan types.
 
@@ -70,7 +70,7 @@ Delivers exploratory visualizations for patterns in loan applications, borrower 
 ---
 
 ### 🔹 Dashboard 3: Detailed Insights  
-
+![image alt]
 **Purpose:**  
 Provides granular, record-level data for in-depth exploration and validation.
 
