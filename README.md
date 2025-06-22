@@ -51,7 +51,7 @@ Provides an at-a-glance overview of loan operations using critical KPIs and perf
 ---
 
 ### 🔹 Dashboard 2: Trends & Overview  
-![image alt](_https://github.com/pratikd2605/Power-BI-Bank-Loan/blob/264ac744bdbda8403261a17ad02a732bafed5283/Bank_Overview.png)
+![image alt](https://github.com/pratikd2605/Power-BI-Bank-Loan/blob/264ac744bdbda8403261a17ad02a732bafed5283/Bank_Overview.png)
 
 **Purpose:**  
 Delivers exploratory visualizations for patterns in loan applications, borrower characteristics, and loan types.
