@@ -23,7 +23,7 @@ To craft a **multi-layered Power BI dashboard system** that offers:
 ---
 
 ## 📊 Dashboard Breakdown  
-![Alt Text]([relative/path/to/image.png](https://github.com/pratikd2605/Power-BI-Bank-Loan/blob/48b87fb1c9161ddb3e9a869bdbca5a9c4923eb99/Bank_Summary.png))
+![image alt]([relative/path/to/image.png](https://github.com/pratikd2605/Power-BI-Bank-Loan/blob/48b87fb1c9161ddb3e9a869bdbca5a9c4923eb99/Bank_Summary.png)
 
 ### 🔹 Dashboard 1: Executive Summary  
 
