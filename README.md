@@ -89,3 +89,16 @@ Provides granular, record-level data for in-depth exploration and validation.
 
 ## 📆 Conclusion  
 This project demonstrates the value of transforming static loan data into dynamic, insightful dashboards that drive smarter decisions. By leveraging Power BI's powerful visualization and analytical capabilities, the solution provides a foundation for better loan performance tracking, risk mitigation, and strategic planning across the lending lifecycle.
+---
+
+
+## 🛠️ Tools & Techniques Used  
+- **Power BI Desktop**  
+- **Data Modeling**: Star schema with normalized tables  
+- **DAX Calculations**: MTD, MoM, percentage change, dynamic measures  
+- **Visuals Used**: Donut Chart, Line Chart, Tree Map, Filled Map, Matrix Table, Bar Chart  
+- **UX Enhancements**:  
+  - Bookmark navigation  
+  - Slicers with reset buttons  
+  - Conditional formatting  
+  - Tooltips and filters for interactivity  
